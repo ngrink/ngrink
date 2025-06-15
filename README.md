@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Nikolay Grinko
-
 **Fullstack Developer (Node.js + React)**  
 Passionate about building scalable web applications using modern JavaScript technologies.
 
@@ -24,36 +22,9 @@ Passionate about building scalable web applications using modern JavaScript tech
 
 ---
 
-## 📌 Pinned Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Awesome API](https://github.com/ngrink/awesome-api) | RESTful backend service with NestJS and PostgreSQL | NestJS, TypeORM, JWT |
-| [Task Manager App](https://github.com/ngrink/task-manager-app) | Fullstack project for task management | React, Node.js, MongoDB |
-| [Realtime Chat](https://github.com/ngrink/realtime-chat) | WebSocket-based chat application | Socket.IO, React, Express |
-| [Portfolio Site](https://github.com/ngrink/portfolio-site) | Personal portfolio built with Next.js | Next.js, TailwindCSS |
-
----
-
 ## 🧠 About Me
 
 - Strong understanding of full development lifecycle  
 - Experience working in cross-functional teams  
 - Focus on writing clean, maintainable, and testable code  
 - Open to remote opportunities and relocation  
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ngrink&show_icons=true&count_private=true&hide=prs&theme=dark" alt="ngrink's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngrink&layout=compact&theme=dark" alt="ngrink's Top Languages" />
-</p>
-
----
-
-## 📫 Contact
-
-- Telegram: [@ngrink](https://t.me/ngrink)  
-- GitHub: [ngrink](https://github.com/ngrink)
