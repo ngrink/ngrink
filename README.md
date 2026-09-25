@@ -9,4 +9,4 @@ Backend engineer at [AI/ML API](https://aimlapi.com), an AI gateway service. I w
 **Data** · PostgreSQL · MongoDB · Redis · ClickHouse · S3  
 **Messaging** · NATS · JetStream · RabbitMQ  
 **Architecture** · Microservices · API Gateway · Event-driven  
-**Ops** · Docker · CI/CD · Nginx · Datadog
+**Ops** · Docker · Kubernetes · CI/CD · Datadog · Traefik · Nginx 
